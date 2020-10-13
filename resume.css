@@ -1,0 +1,51 @@
+body {
+	background-color: #9bb8ca;
+	color: #2b4d69;
+	margin-left: 300px;
+	margin-right: 300px;
+}
+
+h1, h2, h3, h4, h5 {
+	margin-top: 50px;
+	text-align: center;
+}
+
+section {
+	background-color: #e8dfd6;
+	border-radius: 25px;
+	margin-top: 10%;
+}
+
+a:link {
+	color: #b37159;
+}
+
+a:visited {
+	color: #e3b8b2
+}
+
+a:hover {
+	color: #e8dfd6;
+}
+
+table, th, td {
+  border: 1px solid #2b4d69;
+  border-collapse: collapse;
+}
+
+p, table {
+	margin-left: 25%;
+	margin-right: 25%;
+}
+
+ol {
+	margin-left: 10%;
+}
+
+img {
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	width: 200px;
+	height: 200px;
+}
